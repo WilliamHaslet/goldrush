@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 10ae72d4f6de6144e9395d847a35f767, type: 3}
+  m_Name: DirtBreakEffect
+  m_EditorClassIdentifier: 
+  pooledObject: {fileID: 4641621626405525798, guid: fc6e2c09e769bbf43ae63ef89930cf77, type: 3}

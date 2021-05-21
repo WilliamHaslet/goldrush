@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 10ae72d4f6de6144e9395d847a35f767, type: 3}
+  m_Name: StoneBreakEffect
+  m_EditorClassIdentifier: 
+  pooledObject: {fileID: 3420020775726950482, guid: e025f4f4c734d854dacc9c60df2f1a95, type: 3}
